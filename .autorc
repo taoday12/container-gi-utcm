@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "taoday12",
+  "repo": "container-gi-utcm",
+  "name": "taoday12",
+  "email": "taodayq34@gmail.com",
+}
